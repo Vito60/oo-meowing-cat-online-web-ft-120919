@@ -1,4 +1,5 @@
 class Cats 
-  attr_accessor :
+  attr_accessor :name 
+end
   
 end
